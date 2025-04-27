@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- Researcher and academic in the field of Energy Management
+- I am from Concepción, Chile.
 <!--
 **joseluismunozpincheira/joseluismunozpincheira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
